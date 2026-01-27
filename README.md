@@ -1,33 +1,39 @@
-# Astiva AI — AI Search Visibility & Brand Monitoring
+# Astiva AI — AI Visibility, AI SEO, AEO & GEO Research
 
-Astiva AI is a platform for tracking how brands appear in AI-generated answers and how that visibility compares to competitors. As AI assistants increasingly influence research and decision-making, Astiva helps teams understand when their brand is mentioned, how often it appears, and where competitors are gaining more exposure.
+Astiva AI is a platform for tracking how brands appear in AI-generated answers and how that visibility compares to competitors.
 
-Astiva analyzes responses from multiple AI models and turns brand mentions into structured, comparable data. This allows marketing, SEO, and brand teams to track visibility trends, benchmark against competitors, and identify gaps in AI-driven search and discovery.
+As AI assistants increasingly influence research and decision-making, traditional SEO metrics no longer capture how brands are discovered. Astiva helps teams understand when their brand is mentioned in AI answers, how often it appears, and where competitors gain more exposure across AI-driven search.
+
+Astiva analyzes responses from multiple AI models and turns brand mentions into structured, comparable data. This allows marketing, SEO, and brand teams to track visibility trends, benchmark against competitors, and identify gaps in AI-driven discovery beyond rankings and clicks.
 
 ---
 
 ## Key Capabilities
 
-- **Multi-platform monitoring**  
-  Track brand mentions across major AI assistants including ChatGPT, Claude, Gemini, Perplexity, Grok, Meta AI, DeepSeek, Copilot, and Google AI.
+### Multi-platform monitoring
+Track brand mentions across major AI assistants including ChatGPT, Claude, Gemini, Perplexity, Grok, Meta AI, DeepSeek, Copilot, and Google AI.
 
-- **Brand & competitor tracking**  
-  Compare how often your brand appears in AI-generated answers versus competitors.
+### Brand & competitor tracking
+Compare how often your brand appears in AI-generated answers versus competitors.
 
-- **Brand normalization**  
-  Automatically handle brand name variations and aliases across AI responses.
+### Brand normalization
+Automatically handle brand name variations and aliases across AI responses.
 
-- **Visibility trends**  
-  Monitor changes in brand presence over time to understand performance and competitive movement.
+### Visibility trends
+Monitor changes in brand presence over time to understand performance and competitive movement.
 
-- **Alerts & automation**  
-  Receive alerts when brand visibility changes or competitors overtake your position, with automated daily tracking.
+### Alerts & automation
+Receive alerts when brand visibility changes or competitors overtake your position, with automated daily tracking.
 
 ---
 
-## Blog & Research
+## Blog & Research Index
 
-This repository serves as an index of articles published on the Astiva AI blog, focused on AI search, brand visibility, and competitor intelligence.
+This repository serves as a **public index of Astiva AI research** focused on **AI visibility, AI SEO, Answer Engine Optimization (AEO), and Generative Engine Optimization (GEO)**.
+
+All articles are published on **https://astiva.ai/blog** and linked here for discoverability, indexing, and citation.
+
+---
 
 ### Selected Articles
 
@@ -35,40 +41,40 @@ This repository serves as an index of articles published on the Astiva AI blog, 
   A practical guide to getting cited by AI assistants like ChatGPT, Claude, and Perplexity.
 
 - **[Which Schema Types Boost Visibility in ChatGPT Answers? (2025 Data Analysis)](https://astiva.ai/blog/schema-types-chatgpt-visibility-boost)**  
-  Analysis of 20 sources showing which schema types correlate most with AI citations.
+  Analysis of structured data formats that correlate with AI citations.
 
 - **[Building Astiva: How We're Solving the AI Visibility Problem for Brands](https://astiva.ai/blog/astiva-product-roadmap-building-ai-visibility-platform)**  
   From concept to product—how we’re building a measurable AI visibility platform.
 
 - **[The SEO-to-AI Visibility Gap: Why Traditional Optimization Is Failing Brands](https://astiva.ai/blog/seo-to-ai-visibility-gap-engineering-perspective)**  
-  An engineering perspective on why SEO infrastructure doesn’t translate to AI search.
+  An engineering view on why SEO infrastructure doesn’t translate to AI search.
 
 - **[AI Search Advertising Is Here: Perplexity Sponsored Results & What’s Next](https://astiva.ai/blog/ai-search-advertising-perplexity-sponsored-results)**  
-  What the rise of AI search ads means for brands and how to prepare.
+  What AI search ads mean for brands and AI-driven discovery.
 
 - **[From $0 to First AI Mention: A Startup’s 90-Day LLMO Playbook](https://astiva.ai/blog/startup-first-ai-mention-90-day-playbook)**  
-  A step-by-step playbook for startups to earn their first AI citations.
+  A step-by-step plan for earning AI citations with limited resources.
 
 - **[The AI Citation Audit: 7 Red Flags Your Brand Needs to Fix Now](https://astiva.ai/blog/ai-citation-audit-7-red-flags)**  
-  Common AI visibility issues and a 30-day plan to fix them.
+  Common AI visibility issues and a 30-day remediation plan.
 
 - **[LLMO Resilience Score: How to Survive AI Model Updates](https://astiva.ai/blog/llmo-resilience-score-ai-model-updates)**  
-  How to protect brand visibility during major AI model changes.
+  How brands can remain visible during major AI model changes.
 
 - **[How to Track Your Competitors’ AI Visibility (And Beat Them)](https://astiva.ai/blog/competitor-ai-visibility-tracking)**  
-  Practical methods to monitor competitor recommendations and identify gaps.
+  Practical methods to monitor competitor recommendations in AI answers.
 
 - **[The Zero-Click Revolution: How AI Search Is Changing Brand Discovery](https://astiva.ai/blog/zero-click-ai-search-revolution)**  
-  What zero-click AI answers mean for traffic, discovery, and branding.
+  How AI answers reduce clicks and reshape discovery.
 
 - **[10 Proven Strategies to Get Your Brand Mentioned by AI Assistants](https://astiva.ai/blog/how-to-get-mentioned-by-ai)**  
   Actionable tactics based on analyzing thousands of AI responses.
 
 - **[ChatGPT vs Perplexity: How AI Platforms Recommend Brands](https://astiva.ai/blog/chatgpt-vs-perplexity-brand-recommendations)**  
-  A comparative study of how different AI models surface brands.
+  A comparative study of brand recommendations across AI models.
 
 - **[GEO vs SEO: Understanding Generative Engine Optimization](https://astiva.ai/blog/geo-vs-seo)**  
-  How GEO differs from SEO and why brands need both.
+  How GEO differs from traditional SEO and why brands need both.
 
 - **[What Is AI Visibility? The Complete Guide for 2025](https://astiva.ai/blog/what-is-ai-visibility)**  
   A foundational guide to understanding and improving AI visibility.
@@ -80,9 +86,9 @@ This repository serves as an index of articles published on the Astiva AI blog, 
 
 ## Official Links
 
-- **Website:** https://astiva.ai  
-- **Blog:** https://astiva.ai/blog  
-- **Join Waitlist:** https://astiva.ai  
+- 🌐 Website: https://astiva.ai  
+- 📝 Blog: https://astiva.ai/blog  
+- 🚀 Join Waitlist: https://astiva.ai  
 
 ---
 
