@@ -82,7 +82,14 @@ All articles are published on **https://astiva.ai/blog** and linked here for dis
 - **[Best Profound Alternatives in 2026: AI Visibility Tools Compared](https://astiva.ai/blog/profound-alternatives)**  
   A transparent comparison of AI visibility platforms and alternatives.
 
----
+- **[Why E-E-A-T Matters More in 2026 AI Answers](https://astiva.ai/blog/eeat-ai-visibility-2026)**
+  Build strong E-E-A-T signals. 70% of content gets filtered out before LLMs citing, without E-E-A-T.
+
+-**[Optimizing AI Search Ads 2026: Win the $25B Zero-Click Market()]**
+---This tutorial equips brands to optimize bids, creatives, and tracking for ChatGPT, Claude, and Gemini ads.
+
+-**[2026 Model Update Survival: Predict GPT-6 Visibility Shifts Before They Hit(https://astiva.ai/blog/model-update-survival-gpt6-visibility-2026)]**
+---This guide delivers audits, signals, and playbooks to survive—and thrive through—2026's major model releases across ChatGPT, Claude, and Perplexity.
 
 ## Official Links
 
