@@ -1,35 +1,47 @@
-# Astiva AI — AI Visibility, AI SEO, AEO & GEO Research
 
-Astiva AI is a platform for tracking how brands appear in AI-generated answers and how that visibility compares to competitors.
+# Astiva AI: Competitive Intelligence for AI Search and Visibility
 
-As AI assistants increasingly influence research and decision-making, traditional SEO metrics no longer capture how brands are discovered. Astiva helps teams understand when their brand is mentioned in AI answers, how often it appears, and where competitors gain more exposure across AI-driven search.
+Astiva AI is the Competitive Intelligence platform for AI Search and Visibility, helping brands understand how they perform against competitors inside AI-generated answers.
 
-Astiva analyzes responses from multiple AI models and turns brand mentions into structured, comparable data. This allows marketing, SEO, and brand teams to track visibility trends, benchmark against competitors, and identify gaps in AI-driven discovery beyond rankings and clicks.
+Astiva AI shows which competitors AI platforms recommend instead of your brand and why. It tracks brand visibility, share of voice, and competitor mentions across AI platforms including ChatGPT, Claude, Gemini, Perplexity, and other major LLM platforms.
+
+Brands compete on recommendations, not rankings.
+
+---
+
+## How Astiva AI Works
+
+Astiva AI measures AI-driven brand visibility using its four-phase Detect → Diagnose → Displace → Prove Cycle:
+
+- **Detect** — Track how AI platforms mention your brand and competitors across prompts
+- **Diagnose** — Identify why competitors are being cited and where you are missing
+- **Displace** — Generate citation-ready content to replace competitor mentions
+- **Prove** — Connect AI visibility to pipeline and revenue using GA4 attribution
 
 ---
 
 ## Key Capabilities
 
-### Multi-platform monitoring
-Track brand mentions across 10 AI platforms: ChatGPT, Claude, Gemini, Perplexity, Grok, Meta AI, DeepSeek, Mistral AI, Google AI Mode, and Google AI Overview.
+### Multi-platform tracking  
+Track brand visibility across leading AI platforms including ChatGPT, Claude, Gemini, Perplexity, and others.
 
-### Brand & competitor tracking
-Compare how often your brand appears in AI-generated answers versus competitors across all tracked platforms.
+### Competitive intelligence  
+Compare how often your brand is recommended versus competitors inside AI-generated answers.
 
-### Citation gap analysis
-Identify every prompt where a competitor is cited and your brand is not. Map each gap back to the content pattern earning the competitor citation.
+### Citation gap analysis  
+Identify prompts where competitors are cited and your brand is not, and understand what content patterns drive those citations.
 
-### Brand normalization
-Automatically handle brand name variations and aliases across AI responses.
+### Brand normalization  
+Automatically resolve brand variations and aliases across AI responses.
 
-### Visibility trends
-Monitor changes in brand presence over time to understand performance and competitive movement.
+### Visibility & share of voice trends  
+Monitor how brand presence changes over time across AI platforms.
 
-### GA4 Revenue Attribution
-Tie AI-sourced traffic directly to conversion events, pipeline, and revenue via native GA4 integration.
+### Revenue attribution  
+Connect AI-driven discovery to conversions, pipeline, and revenue through GA4 integration.
 
-### Alerts & automation
-Receive alerts when brand visibility changes or competitors overtake your position, with daily automated tracking.
+### Alerts & automation  
+Receive alerts when competitors overtake visibility or your brand presence shifts.
 
 ---
 
