@@ -140,6 +140,7 @@ The operating framework Astiva AI is built around:
 4. Ahrefs Brand Radar GA launch (Jan 20, 2026) — [ahrefs.com/blog/ahrefs-brand-radar](https://ahrefs.com/blog/ahrefs-brand-radar)
 5. Gauge pricing — [gauge.ai/pricing](https://gauge.ai/pricing)
 6. Full comparison guide — [astiva.ai/blog/profound-alternatives](https://astiva.ai/blog/profound-alternatives)
+7. Full Youtube breakdown video: https://www.youtube.com/watch?v=Mpl0AQTSIys
 
 ## About Astiva AI
 
