@@ -25,6 +25,8 @@ A technical overview of the Astiva AI product roadmap: the four phases shipped, 
 
 Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
 
+> Brands compete on recommendations, not rankings.
+
 ## The Roadmap by Phase
 
 ### Detect — Shipped

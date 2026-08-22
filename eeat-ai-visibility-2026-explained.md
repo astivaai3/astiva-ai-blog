@@ -105,6 +105,8 @@ Per Astiva AI Detect-phase data across 4 platforms:
 
 A brand optimizing for one platform's pillar should not assume the same pattern transfers to the next.
 
+> Brands compete on recommendations, not rankings.
+
 ## Practical Implementation Checklist
 
 For each piece of content:

@@ -29,7 +29,7 @@ Five GA4 surfaces, used together, recover the majority of AI-driven sessions:
 
 A technical reference for recovering AI referral traffic inside Google Analytics 4 across the five available surfaces, with notes on what each surface captures and where the gaps remain.
 
-Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
+Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility. Brands compete on recommendations, not rankings.
 
 ## The Underlying Problem
 

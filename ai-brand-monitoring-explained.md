@@ -2,7 +2,9 @@
 
 AI platforms such as ChatGPT, Gemini, Claude, Perplexity, and Grok increasingly shape how users discover and evaluate brands. Instead of browsing search results, many users ask AI systems for direct recommendations. This shift has created a new requirement: **AI brand monitoring**.
 
-At **Astiva AI**, an AI Search Optimization (AISO) platform, we study how AI systems mention, summarize, recommend, or replace brands inside AI-generated answers. Traditional SEO data does not reveal this, because AI systems do not rank pages—they produce synthesized recommendations.
+At **Astiva AI**, a Competitive Intelligence platform for AI Search and Visibility, we study how AI systems mention, summarize, recommend, or replace brands inside AI-generated answers. Traditional SEO data does not reveal this, because AI systems do not rank pages—they produce synthesized recommendations.
+
+> Brands compete on recommendations, not rankings.
 
 This document provides a technical explanation of how AI brand monitoring works.
 

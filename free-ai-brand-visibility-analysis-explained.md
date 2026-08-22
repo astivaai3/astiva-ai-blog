@@ -23,6 +23,8 @@ Three signals on the validated sample: presence (does AI mention the brand at al
 
 A technical reference for the Astiva AI free brand visibility analysis: what it tests, what it returns, what its limits are, and how it fits into a broader AISO program.
 
+> Brands compete on recommendations, not rankings.
+
 Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
 
 ## What the Free Analysis Tests

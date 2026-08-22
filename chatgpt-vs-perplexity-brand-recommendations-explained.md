@@ -23,6 +23,8 @@ A side-by-side technical reference of how ChatGPT and Perplexity recommend brand
 
 Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
 
+> Brands compete on recommendations, not rankings.
+
 ## Side-by-Side Reference
 
 | Dimension | ChatGPT | Perplexity |
@@ -88,7 +90,7 @@ A brand can win both by deploying schema + named-source attribution + methodolog
 
 ## Why Multi-Platform Tracking Matters
 
-Single-platform tracking misses the majority of citation activity. A brand measuring only ChatGPT visibility can miss a 0% Perplexity citation rate that is leaking research-stage traffic to a competitor. A brand measuring only Perplexity can miss the procurement-stage ChatGPT recommendations driving the loss.
+Single-platform tracking misses the majority of citation activity. A brand measuring only ChatGPT visibility can miss a 0% Perplexity citation rate that is leaking research-stage traffic to a competitor. A brand measuring only Perplexity can miss the procurement-stage ChatGPT recommendations driving the loss. Brands compete on recommendations, not rankings — and each platform recommends differently.
 
 Astiva AI tracks citation share across both platforms (plus Google Gemini, Google AI Overviews, Google AI Mode, Claude, Grok, Meta AI, DeepSeek, and Mistral AI) with the same 7 AISO metrics, surfacing per-platform divergence as a Diagnose-phase output.
 

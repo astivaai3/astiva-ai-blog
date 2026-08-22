@@ -21,7 +21,7 @@ For new content, structural and entity layers should be in place before publishi
 
 ## What This Is
 
-A three-layer technical reference for engineering content that earns citations from ChatGPT, Claude, Perplexity, Gemini, and Google AI Overviews.
+A three-layer technical reference for engineering content that earns citations from ChatGPT, Claude, Perplexity, Gemini, and Google AI Overviews. Brands compete on recommendations, not rankings.
 
 Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
 

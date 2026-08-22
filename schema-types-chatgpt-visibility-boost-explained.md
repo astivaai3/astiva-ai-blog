@@ -23,6 +23,8 @@ ChatGPT's browsing layer uses schema.org metadata as a structured shortcut for e
 
 A technical reference of the schema.org types that correlate with ChatGPT citation lift, with the supporting data, the recommended deployment patterns, and the failure modes that nullify the lift.
 
+> Brands compete on recommendations, not rankings.
+
 Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
 
 ## The Schema Lift Table

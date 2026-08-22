@@ -23,6 +23,8 @@ Four categories of difference: retrieval unit (page vs passage), ranking signal 
 
 A technical reference of the engineering differences between SEO infrastructure and AI visibility infrastructure, with the specific architectural changes that close the gap.
 
+> Brands compete on recommendations, not rankings.
+
 Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
 
 ## The Four Engineering Differences

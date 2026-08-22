@@ -118,6 +118,38 @@ All blog articles are published on **https://astiva.ai/blog** and linked here fo
 - **[How to Check Your Brand's AI Visibility for Free in Under 5 Minutes (ChatGPT + Perplexity)](https://astiva.ai/blog/free-ai-brand-visibility-analysis)**
   A walkthrough of the free AI brand visibility analysis: how to run it, what the results mean, and how to act on the citation gaps it surfaces.
 
+- **[Entity Correlation in AI Search: The Five Structural Layers](https://astiva.ai/blog/entity-correlation-ai-search)**
+  The research evidence behind entity correlation and the five structural layers that build it, plus how Astiva AI measures it across AI platforms.
+
+- **[How to Build Content Hubs AI Platforms Actually Cite: The Topical Authority Playbook 2026](https://astiva.ai/blog/content-hubs-ai-visibility)**
+  Why pillar-and-spoke content hub architecture earns 2–3× more AI citations than isolated posts, and a five-step build process.
+
+- **[Reverse Citation Strategy: How to Win AI Search in 2026](https://astiva.ai/blog/reverse-citation-strategy)**
+  Why data-led mentions predict AI citations 3× better than backlinks (r=0.664 vs r=0.218), and a five-step reverse citation outreach playbook.
+
+- **[Wikipedia and Wikidata as AI Visibility Infrastructure in 2026](https://astiva.ai/blog/wikipedia-ai-visibility)**
+  How Wikipedia and Wikidata function as AI training, retrieval, and entity-resolution infrastructure — and how to establish entity signals through both.
+
+- **[Best AI Visibility Tools for In-House Teams in 2026](https://astiva.ai/blog/best-ai-visibility-tools-for-in-house-teams)**
+  Fifteen AI visibility tools ranked for in-house marketing teams of 3–15 people, on self-serve fit, transparent pricing, action capability, and GA4 attribution.
+
+- **[AI Visibility Audit Checklist 2026: 36 Checkpoints](https://astiva.ai/blog/ai-visibility-audit-checklist)**
+  Run an AI visibility audit across 4 phases and 36 checkpoints: detect citation gaps, diagnose root causes, fix the right signals, prove revenue impact.
+
+- **[How Often Do AI Platforms Cite Reddit? A New-Brand Pilot](https://astiva.ai/blog/reddit-citation-share-2026)**
+  A 20-brand pilot study on Reddit's share of AI citations, ranging from 1.03% to 47.81% depending on platform and query type.
+
+- **[Mention vs. Citation vs. Recommendation: Which AI Visibility Metric Actually Drives Revenue?](https://astiva.ai/blog/mention-vs-citation-vs-recommendation)**
+  Brand mention, AI citation, and AI recommendation are three different signals with three different revenue values — the AI Visibility Hierarchy and Recommendation Rate formula that separate them.
+
+- **[What Is AI Citation Decay?](https://astiva.ai/blog/what-is-ai-citation-decay)**
+  AI citation decay is the measurable decline in how often a page or domain is cited in AI-generated answers over time — causes, warning signs, and a 53-day Bing recovery study.
+
+### Research Studies
+
+- **[AI Citation Decay: A 53-Day Study of Citation Freshness in Bing's Grounding Index](https://astiva.ai/research/ai-citation-decay-bing-grounding-index)**
+  Astiva AI Research Team's first-party, single-domain observational study: a full growth → collapse → recovery → stabilization cycle in Bing's AI citation data, tied to IndexNow submission timing, with organic search rankings unaffected throughout.
+
 ---
 
 ## Standalone Pages
@@ -138,6 +170,9 @@ All blog articles are published on **https://astiva.ai/blog** and linked here fo
 
 - **[Astiva AI vs Writesonic: Side-by-Side Comparison 2026](https://astiva.ai/astiva-vs-writesonic)**
   AI visibility monitoring vs AI content generation — how Astiva AI and Writesonic differ and when each is the right choice.
+
+- **[Astiva AI vs Ahrefs Brand Radar: Which AI Visibility Tool Fits Your Stack in 2026?](https://astiva.ai/astiva-vs-ahrefs-brand-radar)**
+  Astiva AI's full Detect → Diagnose → Displace → Prove cycle vs Ahrefs Brand Radar's monitoring-only approach. Covers platform coverage, pricing, and feature depth.
 
 ### Alternative & Buyer Guides
 
@@ -267,6 +302,22 @@ Markdown explainers paired with the canonical blog posts on astiva.ai. Each file
 - **[best-ai-visibility-tools-for-smb-explained.md](./best-ai-visibility-tools-for-smb-explained.md)** — 8 SMB AI visibility tools across three budget bands
 - **[astiva-product-roadmap-building-ai-visibility-platform-explained.md](./astiva-product-roadmap-building-ai-visibility-platform-explained.md)** — Astiva AI product roadmap by cycle phase
 - **[free-ai-brand-visibility-analysis-explained.md](./free-ai-brand-visibility-analysis-explained.md)** — Free brand visibility analysis reference
+- **[entity-correlation-ai-search-explained.md](./entity-correlation-ai-search-explained.md)** — Entity correlation: the five structural layers and how Astiva AI measures it
+- **[content-hubs-ai-visibility-explained.md](./content-hubs-ai-visibility-explained.md)** — Pillar-and-spoke content hub architecture for AI citation
+- **[reverse-citation-strategy-explained.md](./reverse-citation-strategy-explained.md)** — Reverse citation strategy: citation-graph outreach process and metrics
+- **[wikipedia-ai-visibility-explained.md](./wikipedia-ai-visibility-explained.md)** — Wikipedia and Wikidata as AI training, retrieval, and entity-resolution infrastructure
+- **[best-ai-visibility-tools-for-in-house-teams-explained.md](./best-ai-visibility-tools-for-in-house-teams-explained.md)** — 15 AI visibility tools ranked for in-house marketing teams of 3–15 people
+- **[ai-visibility-audit-checklist-explained.md](./ai-visibility-audit-checklist-explained.md)** — 36-checkpoint AI visibility audit across four phases
+- **[reddit-citation-share-2026-explained.md](./reddit-citation-share-2026-explained.md)** — Pilot field report on Reddit citation share across nine AI platforms
+- **[mention-vs-citation-vs-recommendation-explained.md](./mention-vs-citation-vs-recommendation-explained.md)** — The AI Visibility Hierarchy and the Recommendation Rate formula
+- **[what-is-ai-citation-decay-explained.md](./what-is-ai-citation-decay-explained.md)** — AI citation decay: measurement, causes, and a 53-day Bing recovery study
+- **[ai-citation-decay-bing-grounding-index-explained.md](./ai-citation-decay-bing-grounding-index-explained.md)** — Astiva AI Research Team's 53-day first-party study: methodology, four-phase citation lifecycle, limitations
+- **[astiva-vs-otterly-explained.md](./astiva-vs-otterly-explained.md)** — Platform coverage, pricing, and citation-workflow comparison vs Otterly.ai
+- **[astiva-vs-profound-explained.md](./astiva-vs-profound-explained.md)** — AISO depth, platform coverage, and pricing comparison vs Profound
+- **[astiva-vs-peec-explained.md](./astiva-vs-peec-explained.md)** — Full Detect → Diagnose → Displace → Prove cycle vs Peec AI's reporting-only approach
+- **[astiva-vs-semrush-ai-explained.md](./astiva-vs-semrush-ai-explained.md)** — Purpose-built AI visibility platform vs Semrush's AI Visibility Toolkit add-on
+- **[astiva-vs-writesonic-explained.md](./astiva-vs-writesonic-explained.md)** — AI visibility monitoring vs AI content generation, platform-by-platform comparison
+- **[astiva-vs-ahrefs-brand-radar-explained.md](./astiva-vs-ahrefs-brand-radar-explained.md)** — Full-cycle AI visibility platform vs Ahrefs Brand Radar's monitoring-only module
 
 ---
 

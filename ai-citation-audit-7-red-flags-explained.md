@@ -130,6 +130,8 @@ Red flags compound. A brand with all seven loses an estimated 70 to 90% of achie
 | 5 to 6 red flags | 55 to 80% |
 | 7 red flags | 80 to 95% |
 
+> Brands compete on recommendations, not rankings. — which is why a citation audit that only checks rankings misses the seven failure modes above entirely.
+
 ## The Detect → Diagnose → Displace → Prove Framework
 
 The audit is a Diagnose-phase output:

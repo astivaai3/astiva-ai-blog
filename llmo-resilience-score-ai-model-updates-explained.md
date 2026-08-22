@@ -25,6 +25,8 @@ A technical reference specifying the LLMO Resilience Score: the four sub-scores,
 
 Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
 
+> Brands compete on recommendations, not rankings. Resilience is what keeps that recommendation intact when the underlying model changes.
+
 ## The Four Sub-Scores
 
 ### Sub-score 1: Source Diversity (0-25)

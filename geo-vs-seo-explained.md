@@ -25,7 +25,7 @@ Yes. Per Astiva AI data, brands optimizing only for SEO lose 40 to 60% of catego
 
 A side-by-side technical reference distinguishing SEO, AEO, and GEO by target surface, success metric, signal weights, and content structure requirements.
 
-Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
+Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility. Brands compete on recommendations, not rankings.
 
 ## Side-by-Side Reference
 

@@ -23,6 +23,8 @@ Traditional SEO optimizes the page-to-query match. A keyword targets a query; th
 
 A technical reference of the query fan-out architecture: how it works, where it is implemented, why it breaks keyword-targeted SEO, and what content patterns survive it.
 
+> Brands compete on recommendations, not rankings.
+
 Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
 
 ## How Query Fan-Out Works

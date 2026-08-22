@@ -25,6 +25,8 @@ A technical reference for predicting and surviving major AI model updates: the s
 
 Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
 
+> Brands compete on recommendations, not rankings.
+
 ## What Major Model Updates Change
 
 ### Pattern 1: Source weights shift

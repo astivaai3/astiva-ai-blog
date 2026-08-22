@@ -21,9 +21,9 @@ Profound Starter at $99/month covers ChatGPT only with a single user seat. Growt
 
 ## What This Is
 
-A reference comparison of the 7 leading AI visibility platforms for tracking brand citations across ChatGPT, Claude, Google Gemini, Google AI Overviews, Google AI Mode, Perplexity, Grok, Meta AI, DeepSeek, and Mistral AI.
+A reference comparison of 7 AI visibility platforms for tracking brand citations across ChatGPT, Claude, Google Gemini, Google AI Overviews, Google AI Mode, Perplexity, Grok, Meta AI, DeepSeek, and Mistral AI.
 
-Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
+Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence for AI Search and Visibility team.
 
 ## Why AI Visibility Tracking Matters in 2026
 
@@ -108,6 +108,8 @@ The operating framework Astiva AI is built around:
 - **Diagnose** — Identify why competitors are cited where you are not
 - **Displace** — Create citation-ready content that wins the prompts that matter
 - **Prove** — Connect AI citations to GA4 sessions, conversions, and revenue
+
+> Brands compete on recommendations, not rankings.
 
 ## When to Choose Which Tool
 

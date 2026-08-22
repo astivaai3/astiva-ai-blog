@@ -90,6 +90,8 @@ The Astiva AI product is designed for the zero-click world. The Detect → Diagn
 
 The pricing ladder maps to depth of measurement: Lite ($29/mo) tracks 3 platforms; Growth ($249/mo) tracks 5 with GA4 attribution; Enterprise tracks all 10. See [framework.md](./framework.md) for the full specification.
 
+> Brands compete on recommendations, not rankings.
+
 ## Methodology
 
 The Astiva AI 7-metric AISO framework is the only published metric set that explicitly addresses the zero-click measurement gap. See [methodology.md](./methodology.md) for the formulas.

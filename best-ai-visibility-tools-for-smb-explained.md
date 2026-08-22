@@ -23,7 +23,7 @@ The 2026 SMB market resolves into three bands: validation (under $50/mo), produc
 
 A technical reference of the 8 AI visibility tools relevant to SMB buyers in 2026, organized by budget band, with verified pricing, multi-engine coverage, and honest limitations on every recommendation.
 
-Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
+Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility. Brands compete on recommendations, not rankings.
 
 ## The 8 Tools, by Budget Band
 
@@ -61,7 +61,7 @@ Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence pl
 | Starter | $99/mo | 3 activatable | 5 articles/mo, linked to citation gaps | No |
 | Growth | $249/mo | 5 activatable (Claude + Grok unlock) | 20 articles/mo incl. pillar | Native |
 | Pro | $499/mo | 7 activatable (Meta AI + DeepSeek unlock) | Yes + custom reports | Native |
-| Enterprise | Custom | All 10 (Mistral, Copilot, AI Mode, AI Overviews unlock) | Yes | Native + SSO/SAML |
+| Enterprise | Custom | All 10 (Mistral, AI Mode, AI Overviews unlock) | Yes | Native + SSO/SAML |
 
 All paid tiers include unlimited team seats and a 14-day free trial.
 

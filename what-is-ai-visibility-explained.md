@@ -21,7 +21,7 @@ Five metrics define the measurement: Visibility % (presence on tracked prompts),
 
 ## What This Is
 
-A foundational technical reference defining AI visibility, the metrics that measure it, the signals that drive it, and the methods that improve it.
+A foundational technical reference defining AI visibility, the metrics that measure it, the signals that drive it, and the methods that improve it. Brands compete on recommendations, not rankings.
 
 Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
 
@@ -77,7 +77,7 @@ Three patterns separate brands that achieve AI visibility from brands that watch
 
 ## How to Improve AI Visibility
 
-The Astiva AI operating framework:
+The Detect → Diagnose → Displace → Prove Cycle, Astiva AI's operating framework:
 
 - **Detect** — Measure all 5+ metrics across activated AI platforms daily
 - **Diagnose** — Identify which prompts the brand is losing and why (source patterns, schema gaps, entity confusion)

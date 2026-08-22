@@ -23,7 +23,7 @@ Per Astiva AI Detect-phase analysis across 1,247 brands and the Princeton GEO st
 
 A reference of the 16 highest-leverage strategies for earning AI citations across ChatGPT, Claude, Gemini, Perplexity, and other major AI platforms, ranked by measured citation lift.
 
-Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
+Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility. Brands compete on recommendations, not rankings. The strategies below are the ones that measurably move which brand gets recommended.
 
 ## The 16 Strategies Ranked by Citation Lift
 

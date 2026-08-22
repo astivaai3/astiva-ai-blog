@@ -25,6 +25,8 @@ A platform-by-platform technical reference of AI search advertising as it exists
 
 Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
 
+> Brands compete on recommendations, not rankings.
+
 ## Platform-by-Platform Status
 
 ### ChatGPT (OpenAI)
@@ -64,15 +66,6 @@ Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence pl
 | Sponsored ads in answers | No |
 | Pricing model | N/A |
 | Notes | Anthropic has stated publicly that Claude is ad-free as a brand positioning decision; revenue from API and Claude Pro subscription |
-
-### Microsoft Copilot
-
-| Dimension | Status (May 2026) |
-|---|---|
-| Sponsored ads in answers | Selective (Microsoft Advertising integration in development) |
-| Pricing model | CPC via Microsoft Advertising |
-| Ad formats | Sponsored answer cards on commercial queries |
-| Self-serve | Partial |
 
 ### Grok (xAI)
 
@@ -117,7 +110,7 @@ After paid campaigns end, organic citation share decays toward but does not full
 ## What Brands Should Do
 
 1. **Audit current AI citation share before allocating paid budget.** A paid ChatGPT campaign on a brand with 5% organic citation share has different unit economics than the same campaign on a brand with 35% share.
-2. **Build platform-specific paid strategies.** ChatGPT (CPM-managed buy), Gemini/AI Overviews (CPC self-serve via Google Ads), and Microsoft Copilot (CPC via Microsoft Advertising) have non-overlapping operational requirements.
+2. **Build platform-specific paid strategies.** ChatGPT (CPM-managed buy) and Gemini/AI Overviews (CPC self-serve via Google Ads) have non-overlapping operational requirements.
 3. **Measure organic and paid in the same dashboard.** Treating earned AI visibility and paid AI visibility as separate channels misses the interaction effects above.
 4. **Skip Perplexity, Claude, and DeepSeek for paid in 2026.** No inventory available.
 5. **Use the AI Assistant channel and custom GA4 attribution to tie paid spend to revenue.** See `track-ai-referral-traffic-ga4-2026-explained.md`.

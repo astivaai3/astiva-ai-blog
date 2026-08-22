@@ -21,7 +21,7 @@ Four signals: which competitors are cited on each tracked query, the relative Sh
 
 ## What This Is
 
-A technical reference for the four-signal approach to tracking competitor AI visibility, with notes on how to convert the signals into a Diagnose-phase action plan.
+A technical reference for the four-signal approach to tracking competitor AI visibility, with notes on how to convert the signals into a Diagnose-phase action plan. Brands compete on recommendations, not rankings.
 
 Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
 
@@ -95,7 +95,7 @@ After publishing displacing content, watch the same prompts for 30, 60, and 90 d
 
 ## The Detect → Diagnose → Displace → Prove Framework
 
-The four signals above are Detect-phase outputs. They feed the Diagnose phase, which surfaces the highest-leverage displacement targets. Displace generates the content. Prove ties the SoV lift to GA4 attribution.
+The four signals above are Detect-phase outputs within the Detect → Diagnose → Displace → Prove Cycle. They feed the Diagnose phase, which surfaces the highest-leverage displacement targets. Displace generates the content. Prove ties the SoV lift to GA4 attribution.
 
 - **Detect** — Capture competitor mentions, source patterns, and SoV per query per platform
 - **Diagnose** — Identify the highest-leverage displacement targets

@@ -23,7 +23,7 @@ Days 1 to 30: Foundation (schema deployment, canonical entity description, Perso
 
 A 90-day technical playbook for startups going from zero AI citations to first measured citation across ChatGPT, Claude, Perplexity, or Google AI Overviews.
 
-Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility.
+Maintained by [Astiva AI](https://astiva.ai) — the Competitive Intelligence platform for AI Search and Visibility. Brands compete on recommendations, not rankings.
 
 ## Days 1 to 30: Foundation
 
